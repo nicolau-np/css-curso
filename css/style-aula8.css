@@ -1,0 +1,45 @@
+img{
+    width: 250px;
+    height: 450px;
+}
+.container{
+    border: 1px solid blue;
+    overflow: auto;
+}
+
+.container img{
+    float: left;
+    margin-right: 20px;
+}
+
+ul{
+    background-color: #000;
+    padding: 20px;
+}
+
+li{
+    display: inline-block;
+}
+
+li a{
+    color:#fff;
+    text-decoration: none;
+    padding: 20px;
+}
+
+li a:hover{
+    background-color: grey;
+    color:black;
+}
+.login{
+    float: right;
+}
+.login a:hover{
+    background-color: red;
+    color: #fff;
+}
+
+/*
+Usa-se para definir em que posicao estara o
+nosso elemento flutuante
+*/
