@@ -1,0 +1,22 @@
+.exemplo{
+    background-color: grey;
+    color: #000;
+    height: 120px;
+    overflow: auto;
+}
+body{
+    overflow-y: hidden;
+}
+
+/*
+overflow permite dizer oque vai acontecer com o elemente
+quando ele ficar pequeno para albergar outros elementos 
+ou quando ele ficar grande. E só funciona se especificar 
+uma altura para o elemento pai
+por padrao ele é visible
+Podem ser:
+-hidden: elimina tudo que vir apois o limite do elemento
+pai
+-scroll: ele coloca barra de rolagem no elemento pai
+-auto: quase o scrol, mas ele so coloca scroll quando necessario
+*/
