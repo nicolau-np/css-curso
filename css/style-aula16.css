@@ -1,0 +1,35 @@
+/*Smartphones (600px para baixo)*/
+@media only screen and (max-width:600px){
+
+}
+
+/*Dispositivos um pouco maiores, mas ainda pequenos (Pequeno Tabletes)*/
+@media only screen and (min-width:600px){
+    
+}
+
+/*Dispositivos medios (Tablets deitados 768px)*/
+@media only screen and (min-width:768px){
+    
+}
+
+/*Dispositivos largos (laptops/desktops  992px para )*/
+@media only screen and (min-width:992px){
+    
+}
+
+/*Super largos (Telas maiores laptops, desktops  1200px)*/
+@media only screen and (min-width:1200px){
+    
+}
+
+
+
+/*
+os media queries albergam 5 tamanhos,
+1. smatphone,
+2. tablets,
+3. computadores,
+4. tvs
+
+*/
