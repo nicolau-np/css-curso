@@ -1,0 +1,15 @@
+.borda-vermelho {
+    border: 1px solid red;
+}
+
+.borda-azul {
+    border: 1px solid blue;
+}
+
+.ex1 {
+    width: 800px;
+}
+
+.ex2 {
+    max-width: 800px;
+}

@@ -1,0 +1,59 @@
+
+.borda{
+    border: 1px solid #e01515;
+}
+p{
+   
+}
+h1{
+ 
+}
+#p1{
+    display: block;
+}
+
+#p1:hover{
+display: none;
+}
+
+li{
+    display: inline-block; /*tipos, inline, block, inline-block*/
+width:10%;
+height: 40px;
+}
+
+.verde{
+    background-color: green;
+}
+.azul{
+    background-color: blue;
+}
+.vermelho{
+    background-color: red;
+}
+.amarelo{
+    background-color: yellow;
+}
+.sinza{
+    background-color: grey;
+}
+
+div{
+    width: 33%;
+    height: 150px;
+    display: inline-block;
+}
+
+div.vermelho{
+visibility: hidden;
+}
+
+/*
+os display do tipo inline nao permitem as propriedades de height, width, margin etc... 
+podem ser: span, a, img
+ja os display do tipo block aceitam estas propriedades
+podem ser: div, p, h1, ul
+ja para os elementos adquirirem as duas caracteristicas deve-se
+usar o display do tipo inline-block
+
+*/

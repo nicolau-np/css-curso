@@ -1,0 +1,10 @@
+p{
+    color: black;
+    text-align: justify;
+    text-decoration: overline;/*colocar sublnhado, tracejado etc..*/
+    text-transform: uppercase; /*transformar letras em maiusculo ou minusculo*/
+    text-indent: 50px; /*fazer espaçamento dos paragrafos tipo o TAB no word*/
+    letter-spacing: 5px; /*espacamento entre as letras*/
+    line-height: 1.8;/*espacamento entre as alineas*/
+    word-spacing: 15px;/*espacamento entre as palavras*/
+}

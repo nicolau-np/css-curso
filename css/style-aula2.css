@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&family=Kanit:ital,wght@0,600;1,500&display=swap');
+p{
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 18px;
+    font-style: normal;/*definir se o texto vai ser italico, obliquo, etc*/
+    font-weight: 700;/*definir negritude da fonte*/
+}
+
+h1{
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    background-color: #000;
+    border-radius: 10px;
+    color: #fff;
+}
